@@ -139,10 +139,12 @@
   }
 }
 
-@media screen and (max-width: 350px) {
-  /* Customizing feature component as per needs */
+@media screen and (max-width: 420px) {
   .gpt3__whatgpt3-container .gpt3__features-container__feature {
     margin: 1rem 0;
     min-width: 100%;
+  }
+  .gpt3__whatgpt3 {
+    padding: 1rem 1rem;
   }
 }

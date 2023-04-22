@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.edb4c706.css",
+    "main.js": "/static/js/main.b2d38d7f.js",
+    "static/media/Feature Image.png": "/static/media/Feature Image.d60d0a1de0971dc00bd3.png",
+    "static/media/Rectangle26.png": "/static/media/Rectangle26.4dd90b64f4797f740bdd.png",
+    "static/media/Rectangle23.png": "/static/media/Rectangle23.c6c07172d9a995e86aa5.png",
+    "static/media/Rectangle24.png": "/static/media/Rectangle24.2c817780af4145b90e73.png",
+    "static/media/Rectangle25.png": "/static/media/Rectangle25.94a8818460bd840bb078.png",
+    "static/media/Rectangle22.png": "/static/media/Rectangle22.8f6de3056609da77b523.png",
+    "static/media/Illustration.png": "/static/media/Illustration.3a4de4d36b9ef6298f9f.png",
+    "static/media/Group 81.png": "/static/media/Group 81.bad16829c7341d6783d8.png",
+    "static/media/dropbox.png": "/static/media/dropbox.57b3fe2fbbb84fa75ea5.png",
+    "static/media/atlassian.png": "/static/media/atlassian.a2397815b0c1110835b8.png",
+    "static/media/GPT.svg": "/static/media/GPT.cf6810c94fbac0cc653f939ff5723cf4.svg",
+    "index.html": "/index.html",
+    "main.edb4c706.css.map": "/static/css/main.edb4c706.css.map",
+    "main.b2d38d7f.js.map": "/static/js/main.b2d38d7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edb4c706.css",
+    "static/js/main.b2d38d7f.js"
+  ]
+}
